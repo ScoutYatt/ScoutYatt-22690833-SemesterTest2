@@ -1,1 +1,3 @@
 # ScoutYatt-22690833-SemesterTest2
+Firstly the original unedited code was uploaded and on a branch called original code. Once the code was edited a new branch was created called question 2 which contained the new code integrated with the original code.
+ Layers used in QGIS are also in a separate folder on the drive to ensure version control. The test tasks included creating a 3D web map on QGIS of the university of Pretoria, creating layers to visualize aspects such as buildings as well as attribute info such as building name and a brief description. This map then had to contain a header and display attribute information.
